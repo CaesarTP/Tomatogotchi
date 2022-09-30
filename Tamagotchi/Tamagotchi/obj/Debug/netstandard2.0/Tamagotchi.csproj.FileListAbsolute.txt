@@ -1,0 +1,61 @@
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\bin\Debug\netstandard2.0\Tamagotchi.deps.json
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\bin\Debug\netstandard2.0\Tamagotchi.dll
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\bin\Debug\netstandard2.0\ref\Tamagotchi.dll
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\bin\Debug\netstandard2.0\Tamagotchi.pdb
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.dll
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\ref\Tamagotchi.dll
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.pdb
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Kitchen.xaml.g.cs
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Playroom.xaml.g.cs
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Bedroom.xaml.g.cs
+C:\Users\Gebruiker\source\repos\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Zenroom.xaml.g.cs
+C:\Xamarin projects\Tamagotchi\Tamagotchi\bin\Debug\netstandard2.0\Tamagotchi.deps.json
+C:\Xamarin projects\Tamagotchi\Tamagotchi\bin\Debug\netstandard2.0\Tamagotchi.dll
+C:\Xamarin projects\Tamagotchi\Tamagotchi\bin\Debug\netstandard2.0\ref\Tamagotchi.dll
+C:\Xamarin projects\Tamagotchi\Tamagotchi\bin\Debug\netstandard2.0\Tamagotchi.pdb
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Bedroom.xaml.g.cs
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Kitchen.xaml.g.cs
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Playroom.xaml.g.cs
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Zenroom.xaml.g.cs
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.AssemblyInfoInputs.cache
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.AssemblyInfo.cs
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.dll
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\ref\Tamagotchi.dll
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.pdb
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.csproj.Fody.CopyLocal.cache
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.csproj.Fody.RuntimeCopyLocal.cache
+D:\Xamarin projects\Tamagotchi\Tamagotchi\bin\Debug\netstandard2.0\Tamagotchi.deps.json
+D:\Xamarin projects\Tamagotchi\Tamagotchi\bin\Debug\netstandard2.0\Tamagotchi.dll
+D:\Xamarin projects\Tamagotchi\Tamagotchi\bin\Debug\netstandard2.0\ref\Tamagotchi.dll
+D:\Xamarin projects\Tamagotchi\Tamagotchi\bin\Debug\netstandard2.0\Tamagotchi.pdb
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Bedroom.xaml.g.cs
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Kitchen.xaml.g.cs
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Playroom.xaml.g.cs
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Zenroom.xaml.g.cs
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.AssemblyInfoInputs.cache
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.AssemblyInfo.cs
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.csproj.CoreCompileInputs.cache
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.csproj.Fody.CopyLocal.cache
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.csproj.Fody.RuntimeCopyLocal.cache
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.dll
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\ref\Tamagotchi.dll
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.pdb
+D:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.csproj.AssemblyReference.cache
+C:\Xamarin projects\Tamagotchi\Tamagotchi\obj\Debug\netstandard2.0\Tamagotchi.csproj.AssemblyReference.cache

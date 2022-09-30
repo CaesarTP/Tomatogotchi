@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tamagotchi.MainPage"
+             BackgroundColor="Green">
+
+    <StackLayout BackgroundColor="Pink" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+        <Frame BackgroundColor="LightBlue" Padding="10" BorderColor="White">
+            <Label Text="tomatogotchi™" HorizontalTextAlignment="Center" TextColor="White" FontSize="40" FontAttributes="Bold, Italic"/>
+        </Frame>
+        <RelativeLayout BackgroundColor="Transparent" HorizontalOptions="Center" VerticalOptions="EndAndExpand">
+            <ProgressBar ProgressColor="LightBlue" ScaleY="2" ScaleX="1" TranslationX="-147" TranslationY="377" Progress="{Binding Thirst, Mode=OneWay}"/>
+            <ProgressBar ProgressColor="DarkOrange" ScaleY="2" ScaleX="1" TranslationX="-147" TranslationY="387" Progress="{Binding Hunger, Mode=OneWay}"/>
+            <ProgressBar ProgressColor="Purple" ScaleY="2" ScaleX="1" TranslationX="147" TranslationY="387" Progress="{Binding Sleepy, Mode=OneWay}"/>
+            <ProgressBar ProgressColor="MediumAquamarine" ScaleY="2" ScaleX="1" TranslationX="-73" TranslationY="387" Progress="{Binding Bored, Mode=OneWay}"/>
+            <ProgressBar ProgressColor="Yellow" ScaleY="2" ScaleX="1" TranslationX="73" TranslationY="387" Progress="{Binding Overstimulated, Mode=OneWay}"/>
+        </RelativeLayout>
+        <RelativeLayout BackgroundColor="Transparent" HorizontalOptions="Center" VerticalOptions="EndAndExpand">
+            <Image Source="Tomato.png" WidthRequest="350"/>
+        </RelativeLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="EndAndExpand">
+            <ImageButton Source="IconKitchen.png" WidthRequest="90" HeightRequest="40" BackgroundColor="LightGray" BorderColor="White" BorderWidth="1" CornerRadius="10" Clicked="KitchenButton" HorizontalOptions="FillAndExpand" MinimumWidthRequest="0"/>
+            <ImageButton Source="IconDice.png" WidthRequest="90" HeightRequest="40" BackgroundColor="IndianRed" BorderColor="White" BorderWidth="1" CornerRadius="10" Clicked="PlayroomButton" HorizontalOptions="FillAndExpand" MinimumWidthRequest="0"/>
+            <ImageButton Source="IconMainPage.png" WidthRequest="90" HeightRequest="40"  BackgroundColor="Transparent" CornerRadius="10" HorizontalOptions="FillAndExpand" MinimumWidthRequest="0"/>
+            <ImageButton Source="IconZenroom.png" WidthRequest="90" HeightRequest="40" BackgroundColor="AntiqueWhite" BorderColor="White" BorderWidth="1" CornerRadius="10" Clicked="ZenroomButton" HorizontalOptions="FillAndExpand" MinimumWidthRequest="0"/>
+            <ImageButton Source="IconBedroom.png" WidthRequest="90" HeightRequest="40" BackgroundColor="MediumPurple" BorderColor="White" BorderWidth="1" CornerRadius="10" Clicked="BedroomButton" HorizontalOptions="FillAndExpand" MinimumWidthRequest="0"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

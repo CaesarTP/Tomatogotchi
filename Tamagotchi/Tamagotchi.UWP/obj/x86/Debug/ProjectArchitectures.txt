@@ -1,0 +1,1 @@
+C:\Xamarin projects\Tamagotchi\Tamagotchi.UWP\Tamagotchi.UWP.csproj;x86
